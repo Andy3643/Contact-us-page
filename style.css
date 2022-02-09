@@ -1,0 +1,40 @@
+/*.contactpg{
+    background: linear-gradient( rgba(150,75,0,0.6),rgba(150,75,0,0.6) ),url(./images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+h1{
+    color: white;
+}
+.sendmessage{
+   background:rgba(170,170,170,0.6);
+   font-size: 20px;
+   padding: 10px 50px 10px 50px;
+}
+.sendmessage h2{
+    text-align: center;
+}
+.contactus{
+    background:rgba(170,170,170,0.6);
+    font-size: 30px;
+    padding: 10px 50px 10px 50px;
+}
+.contactus h2{
+    text-align: center;
+}
+#contactsection{
+    display: flex;
+    justify-content: space-around;
+}
+#name{
+    width: 300px;
+    height: 30px;
+}
+#email{
+    width: 300px;
+    height: 30px;
+}
+#message{
+    width: 300px;
+}
