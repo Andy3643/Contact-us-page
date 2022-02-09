@@ -1,9 +1,9 @@
-/*.contactpg{
+.contactpg{
     background: linear-gradient( rgba(150,75,0,0.6),rgba(150,75,0,0.6) ),url(./images/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
-}
+}/*
 h1{
     color: white;
 }
